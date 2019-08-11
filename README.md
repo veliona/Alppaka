@@ -8,7 +8,7 @@
 Analyze data from the App Store and the Google Play Store to identify the most profitable mobile apps in order to suggest data-driven decisions for type of features or/and products that should to be implemented.
 
 ## What is its goal?
-Develop essential skills for data analysis in Python.
+Develop personal knowledge and essential skills for data analysis in Python.
 
 ## Next steps
 - Import pandas and matplotlib
