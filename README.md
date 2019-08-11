@@ -1,7 +1,7 @@
 # Profitable App Profiles for the App Store and Google PlayMarkets
 
 <p align="center">
-  <img src="img/logo.png" />
+  <img width="40%" src="img/logo.png" />
 </p>
 
 ## What is this project?
