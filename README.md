@@ -1,4 +1,4 @@
-# Profitable App Profiles for the App Store and Google PlayMarkets
+# Alppaka: Analysis Of Profitable App Profiles for the App Store and Google PlayMarkets
 
 <p align="center">
   <img width="40%" src="img/logo.png" />
