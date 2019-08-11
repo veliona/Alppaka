@@ -5,7 +5,7 @@
 </p>
 
 ## What is this project?
-Analyze data from App Store and Google Play Store to idetify the most profitable mobile apps in order to suggest data-driven decisions type of features or/and products should to be implemented.
+Analyze data from App Store and Google Play Store to identify the most profitable mobile apps in order to suggest data-driven decisions type of features or/and products should to be implemented.
 
 ## What is its goal?
 Develop essential skills for data analysis in Python.
