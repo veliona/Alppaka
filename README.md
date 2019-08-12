@@ -21,3 +21,6 @@ https://app.dataquest.io/m/350/guided-project%3A-profitable-app-profiles-for-the
 - App Store data set:
 https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps/home
 - Google Play Store data set: https://www.kaggle.com/lava18/google-play-store-apps/home
+
+---
+Thank you <a href="https://github.com/Ullaakut">@Ullaakut</a> for this logo! 
