@@ -4,8 +4,8 @@
   <img width="40%" src="img/logo.png" />
 </p>
 
-## What is this project?
-Analyze data from the App Store and the Google Play Store to identify the most profitable mobile apps in order to suggest data-driven decisions for type of features or/and products that should to be implemented.
+## What is this project about?
+Analysing data from the App Store and the Google Play Store to identify the most profitable mobile apps in order to suggest data-driven decisions for type of features or/and products that should to be implemented.
 
 ## What is its goal?
 Develop personal knowledge and essential skills for data analysis in Python.
